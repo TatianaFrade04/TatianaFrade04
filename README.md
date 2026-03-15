@@ -1,13 +1,32 @@
-# Olá, eu sou o [Teu Nome]! 👋
+# 🌸 Hi, I'm Tatiana
 
-### 👨‍💻 Sobre mim
-- 🚀 Atualmente a trabalhar em [Projeto]
-- 🧠 A aprender mais sobre **Modelos de IA Locais**
-- ⚡ Curiosidade: Eu prefiro [Tab ou Space?]
+💻 Software Developer  
+✨ Curious mind exploring tech  
 
-### 🛠 Tecnologias
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
 
-### 📊 Estatísticas
-![As minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=TEU_USER_AQUI&show_icons=true&theme=radical)
+## 👩‍💻 Sobre mim
+
+- 🚀 Atualmente a trabalhar em projetos pessoais  
+- 🧠 A aprender mais sobre desenvolvimento web e inteligência artificial
+- ⚡ A terminar a minha licenciatura em Engenharia Informática
+
+---
+
+## 🛠 Tecnologias
+
+![JavaScript](https://img.shields.io/badge/javascript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/react-f9c5d1?style=for-the-badge&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/python-f8a5c2?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TatianaFrade04&show_icons=true&theme=radical)
+
+---
+
+## 🌷 Connect
+
+[LinkedIn](www.linkedin.com/in/tatianafrade1704)
