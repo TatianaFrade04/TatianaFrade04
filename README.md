@@ -1,32 +1,33 @@
 # 🌸 Hi, I'm Tatiana
 
-💻 Software Developer  
-✨ Curious mind exploring tech  
+Junior Software Developer
+Currently working at **AvanceeSoftware**, Leiria
 
 ---
 
-## 👩‍💻 Sobre mim
+## ⚡ About Me
 
-- 🚀 Atualmente a trabalhar em projetos pessoais  
-- 🧠 A aprender mais sobre desenvolvimento web e inteligência artificial
-- ⚡ A terminar a minha licenciatura em Engenharia Informática
+* Final-year **Computer Engineering student** at **IPL**
+* Interested in **Artificial Intelligence and Cybersecurity**
+* Always eager to **learn new technologies and improve my skills**
 
 ---
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
 ![JavaScript](https://img.shields.io/badge/javascript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react-f9c5d1?style=for-the-badge&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/python-f8a5c2?style=for-the-badge&logo=python&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-ffc8dd?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-## 📊 Estatísticas
+## 📊 Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TatianaFrade04&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TatianaFrade04\&show_icons=true\&theme=radical)
 
 ---
 
-## 🌷 Connect
+## 🌷 Connect with me
 
-[LinkedIn](www.linkedin.com/in/tatianafrade1704)
+[LinkedIn](https://www.linkedin.com/in/tatianafrade1704)
