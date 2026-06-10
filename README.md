@@ -20,7 +20,7 @@ Currently working at **AvanceeSoftware**, Leiria
 ![Python](https://img.shields.io/badge/python-f8a5c2?style=for-the-badge&logo=python&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-ffc8dd?style=for-the-badge&logo=jira&logoColor=white)
 
----
+<!------->
 
 <!--## 🧶 Statistics -->
 
