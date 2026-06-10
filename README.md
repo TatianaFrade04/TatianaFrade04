@@ -22,9 +22,9 @@ Currently working at **AvanceeSoftware**, Leiria
 
 ---
 
-## 🧶 Statistics
+<!--## 🧶 Statistics -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TatianaFrade04\&show_icons=true\&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TatianaFrade04&show_icons=true&theme=radical) -->
 
 ---
 
