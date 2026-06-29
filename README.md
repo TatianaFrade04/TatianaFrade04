@@ -17,8 +17,6 @@ Currently working at **AvanceeSoftware**, Leiria
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TatianaFrade04&show_icons=true&theme=radical) -->
 
----
-
 ## 🌷 Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/tatianafrade1704)
