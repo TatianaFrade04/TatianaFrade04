@@ -7,8 +7,8 @@ Currently working at **AvanceeSoftware**, Leiria
 
 ## ⚡ About Me
 
-* Final-year **Computer Engineering student** at **IPL**
-* Interested in **Artificial Intelligence and Cybersecurity**
+* Incoming Master's student in **Cybersecurity and Digital Forensics** at **IPL/ULO**
+* Interested in **Artificial Intelligence**
 * Always eager to **learn new technologies and improve my skills**
 
 ---
