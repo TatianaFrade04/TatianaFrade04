@@ -37,22 +37,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TatianaFrade04&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Tatiana's GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaFrade04&layout=compact&theme=radical&hide_border=true" alt="Tatiana's Top Languages" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=TatianaFrade04&theme=radical&hide_border=true" alt="Tatiana's GitHub Streak" />
-
-</div>
-
----
-
 ## 🌷 Connect with Me
 
 <div align="center">
