@@ -1,22 +1,68 @@
+<div align="center">
+
 # 🌸 Hi, I'm Tatiana
 
-Junior Software Developer
-Currently working at **AvanceeSoftware**, Leiria
+### Product Owner & Business Analyst @ AvanceeSoftware
+
+🎓 MSc in Cybersecurity & Digital Forensics @ IPL/ULO
+📍 Leiria, Portugal
+
+</div>
 
 ---
 
-## ⚡ About Me
+## 👩‍💻 About Me
 
-* Incoming Master's student in **Cybersecurity and Digital Forensics** at **IPL/ULO**
-* Interested in **Artificial Intelligence**
-* Always eager to **learn new technologies and improve my skills**
+* 🔐 Pursuing a **Master's in Cybersecurity and Digital Forensics**
+* 📊 Working as a **Product Owner & Business Analyst**
+* 🤖 Interested in **Artificial Intelligence**
+* 🌱 Always exploring new technologies and improving my skills
 
 ---
 
-<!--## 🧶 Statistics -->
+## 🛠️ Tools & Technologies
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TatianaFrade04&show_icons=true&theme=radical) -->
+### 📋 Product & Project Management
 
-## 🌷 Connect with me
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge\&logo=confluence\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
-[LinkedIn](https://www.linkedin.com/in/tatianafrade1704)
+### 💻 Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge\&logo=quarkus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TatianaFrade04&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Tatiana's GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaFrade04&layout=compact&theme=radical&hide_border=true" alt="Tatiana's Top Languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=TatianaFrade04&theme=radical&hide_border=true" alt="Tatiana's GitHub Streak" />
+
+</div>
+
+---
+
+## 🌷 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tatianafrade1704">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/TatianaFrade04">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
