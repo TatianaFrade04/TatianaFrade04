@@ -14,7 +14,9 @@
 ## 👩‍💻 About Me
 
 🎓 MSc student in Cybersecurity & Digital Forensics
+
 💻 BSc in Computer Engineering
+
 🤖 Interested in Artificial Intelligence, Cybersecurity & Digital Forensics
 
 ---
