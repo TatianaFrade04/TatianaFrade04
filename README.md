@@ -13,9 +13,9 @@
 
 ## 👩‍💻 About Me
 
-* 🔐 Pursuing a **Master's in Cybersecurity and Digital Forensics**
-* 📊 Working as a **Product Owner**
-* 🤖 Interested in **Artificial Intelligence**
+🎓 MSc student in Cybersecurity & Digital Forensics
+💻 BSc in Computer Engineering
+🤖 Interested in Artificial Intelligence, Cybersecurity & Digital Forensics
 
 ---
 
