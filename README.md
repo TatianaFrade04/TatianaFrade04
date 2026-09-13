@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Hi, I'm Tatiana
+# Hi, I'm Tatiana
 
 ### Product Owner & Business Analyst @ AvanceeSoftware
 
