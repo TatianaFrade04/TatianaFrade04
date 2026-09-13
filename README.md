@@ -4,7 +4,7 @@
 
 ### Product Owner @ AvanceeSoftware
 
-🎓 MSc in Cybersecurity & Digital Forensics @ IPL/ULO
+🎓 MSc in Cybersecurity & Digital Forensics @ ULO
 📍 Leiria, Portugal
 
 </div>
