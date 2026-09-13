@@ -2,7 +2,7 @@
 
 # Hi, I'm Tatiana
 
-### Product Owner & Business Analyst @ AvanceeSoftware
+### Product Owner @ AvanceeSoftware
 
 🎓 MSc in Cybersecurity & Digital Forensics @ IPL/ULO
 📍 Leiria, Portugal
@@ -14,7 +14,7 @@
 ## 👩‍💻 About Me
 
 * 🔐 Pursuing a **Master's in Cybersecurity and Digital Forensics**
-* 📊 Working as a **Product Owner & Business Analyst**
+* 📊 Working as a **Product Owner**
 * 🤖 Interested in **Artificial Intelligence**
 * 🌱 Always exploring new technologies and improving my skills
 
