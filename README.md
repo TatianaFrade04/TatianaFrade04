@@ -16,7 +16,6 @@
 * 🔐 Pursuing a **Master's in Cybersecurity and Digital Forensics**
 * 📊 Working as a **Product Owner**
 * 🤖 Interested in **Artificial Intelligence**
-* 🌱 Always exploring new technologies and improving my skills
 
 ---
 
